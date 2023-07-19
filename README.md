@@ -1,6 +1,6 @@
 # Dirmini Tool
-# For use the tool
-Example : python3 dirstar.py https://ForExample.com/< File.txt >
+# For use
+# Example : python3 dirstar.py https://ForExample.com/< File.txt >
 
 Dirmini is a simple tool that helps you search for directories on a website. You can use them to find directories that contain specific files or that meet certain criteria.
 
