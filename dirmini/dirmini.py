@@ -1,7 +1,7 @@
 import requests
 import sys
 print("\n")
-print("How Use : python3 dirstar.py https://forExample/ < wordlists.txt > ")
+print("How Use : python3 dirmini.py https://forExample/ < wordlists.txt > ")
 print("\n")
 print(""",,,,,,,,,,,,,,,,,,,,,**********************************************,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,*,,**************************************,,,,,,,,,,,,,,,,,
@@ -25,7 +25,7 @@ print(""",,,,,,,,,,,,,,,,,,,,,**********************************************,,,,
 .  ..................                                    .. ................... 
        ...........                                             ..............   
             . ...      By : @F2fX                                ...........    
-          ..  ..          === DIRSTAR ===                            ......        
+          ..  ..          === DIRMINI ===                           ......        
               .                                                    ...          
                                                            .           
                                                                                 
@@ -40,7 +40,7 @@ print("............................START........................................
 print("\n")
 
 def dirbuster(url, wordlist):
-    print(url + "dirstar")
+    print(url + "dirmini")
     print("=========================================")
 
     print("\n")
